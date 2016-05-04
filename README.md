@@ -19,5 +19,8 @@ Please Follow the instructions to push your changes :
 - git commit -m "Any comment to your commit"
 - git pull
 - git push
+<<<<<<< HEAD
 
 # Modificado por Lourdes
+=======
+>>>>>>> c7ad6559a174918067f47406453fbdde023601fd
