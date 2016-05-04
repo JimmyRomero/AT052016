@@ -1,0 +1,37 @@
+Questions
+
+1.- What is  ruby ?
+Ruby is a programming language object-oriented and open source, focused on simplicity 
+whit natural syntax to read and easy to write
+
+2.-Pros and Cons explained in class
+
+The pros more relevant for me are:
+
+No need to include files and libreries 
+Not many conditionals
+
+the cons more relevants:
+
+-No multiple inheritance
+-Perhaps as against could say that is an interpreted language becouse a interpreter
+ is usually much less efficient than the execution of a compiled program.
+ It is not time efficient because each instruction must go through an interpretation
+ at runtime, or as in more recent implementations, the code must be compiled to a
+ intermediate representation before each run
+
+3.- which they are the three stages of testing?
+ui (user interface)
+services
+Backend
+ 
+
+
+
+
+
+
+
+
+
+
