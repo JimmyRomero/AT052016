@@ -1,0 +1,15 @@
+Practice - 1	
+
+1. Create a ruby file (.rb) that print 7 lines (use print and puts)
+2. run the script and copy the result displayed in a text. 
+Push both files as print_practice_rb.rb and puts_result.txt
+3. Put a # (octothorpe, hash, pound) character at the beginning of any line. What did it do?
+   This symbol is used for comment one code line.
+
+4. Research :
+	a) y b) The way to add comments on ruby (inline – multiline). When you should use each type
+	   For comment one code line using inline # and for comment a paragraph or 
+	several lines using  multiline =begin at the beginning and 
+	   =end at the end
+		
+	c) create and script using inline-multiline comments
