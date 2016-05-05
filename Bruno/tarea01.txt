@@ -1,0 +1,16 @@
+1.	What is ruby?
+R.- It is a programming language, It is fully object-oriented, its creator Matz, has often said that he is "trying to make Ruby natural," in a way that resembles real life, because it is important to emphasize that we have to not worry so much, for the syntax as defining specific variables or end a statement with a semicolon.
+2.	What pros/cons you considered from the point explained in the class
+Pros
+No declared variables.
+Many code already created to implement the options that you need.
+Be easy to learn.
+Flexible in use.
+Free.
+Cons
+if we dont a good structuring of the code, it tends to disorder.
+
+3.	According what we talked today, what are the 3 testing tiers?
+Test UI 
+Test Services
+Test Backend
