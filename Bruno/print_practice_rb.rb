@@ -1,0 +1,7 @@
+print "HOLA"
+puts "SI"
+print "HOLA"
+puts "SI"
+print "HOLA"
+puts "SI"
+print "HOLA"
