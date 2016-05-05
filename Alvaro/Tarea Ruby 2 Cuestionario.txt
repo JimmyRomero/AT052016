@@ -1,0 +1,16 @@
+
+Cuestionario 2
+
+-The way to add comments on ruby (unline and multiLine)
+
+There are 2 ways to put comments in ruby one is using # followed by the comment 
+and the second is using "= begin" followed by the comment and closing the comment
+ with "= end"
+
+-When you should use each type
+
+We use # to make simple one-line comments on the contrary when we make an explanation
+ that is more than one line will use "= begin" and "= end"
+
+-Create an script using unline-multiline comments
+
