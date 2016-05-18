@@ -19,12 +19,11 @@ end
 def insertEmail
 	puts "Insert Email"
 	email = gets.chomp.to_s
-	if(email =~ /[a-zA-Z0-9.@]\w+/)
+	if(email =~ /^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/)
 		puts "OK"
 	else
 		puts "Invalid"
-	end
-	#en este tuve problemas	
+	end	
 end
 
 insertUser

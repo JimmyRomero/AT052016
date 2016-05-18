@@ -1,4 +1,4 @@
-class Register	
+class Register		
 	attr_accessor :age
 
 	def initialize (name, age)
