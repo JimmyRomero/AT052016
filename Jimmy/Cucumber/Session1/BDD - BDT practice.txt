@@ -1,0 +1,37 @@
+–	When and why BDD was defined
+
+Behavior-Driven Development or BDD, is principally an idea abobut how software development should be managed. 
+It is a combination of general techniques and principles of TDD and object oriented analisys and desing.
+
+–	The most important aspects of BDD
+Some important aspects of BDD are, that BDD focuses on where to start in the process, how much to test in one go, what to call the tests, how to understand why a test fails.
+Ability to write test cases (scenarios) and acceptance criteria before performing any development.
+
+–	Why is useful and when could be applied.
+Is useful because It has easy feedback, avoid rework in requirements definition, self documentation, focus on behavior.
+
+–	Which type of teams could implement BDD
+Test, Development teams
+
+•	Structure of a feature – Give an example
+
+A structure of a feature has, name, size (optional) and priority
+I.e. Transfer founds 
+
+•	Structure of a user story – Give an example
+
+The structure of a user story is, Title, Narrative (As a [role], I want [feature], So that [benefit])
+I.e. As an account holder, I want to transfer funds
+between two of my accounts so that I can maximize
+the performance of my savings and avoid any fees
+associated with overdrafts and minimum balance rules.
+
+•	Structure of a scenario – Give an example
+The structure of a scenario is: Given, When, Then
+I.e. 
+Scenario: Transfer funds between two accounts.
+Scenario: Transfer funds to more than two accounts.
+Scenario: Transfer empty funds between accounts.
+
+•	Differences between BDD and BDT
+BDT can be used without BDD, BDT uses Given-When-Then style tests, BDT is written in natural language, BDT uses automation, BDT is focused on find bugs.
