@@ -1,0 +1,21 @@
+
+D:\AT01\Ruby\Test_Folder\AT052016\Jimmy\Cucumber\Session2\features>cucumber comm
+ents.feature --dry-run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+0 scenarios
+0 steps
+
+D:\AT01\Ruby\Test_Folder\AT052016\Jimmy\Cucumber\Session2\features>cucumber comm
+ents.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+0 scenarios
+0 steps
+0m0.000s
+
+D:\AT01\Ruby\Test_Folder\AT052016\Jimmy\Cucumber\Session2\features>
+
+
+The difference between both executions is: when the feature is executed without --dry-run
+the cmd shows the execution time of the feature
