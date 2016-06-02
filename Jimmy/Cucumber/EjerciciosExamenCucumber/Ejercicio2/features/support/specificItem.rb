@@ -1,0 +1,1 @@
+$list={"1" => "milk", "2" => "bread","3" => "apples"}
